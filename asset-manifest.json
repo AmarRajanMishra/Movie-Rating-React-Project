@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie-rating-react-project/static/css/main.ab4ca018.css",
+    "main.js": "/movie-rating-react-project/static/js/main.c4c7ba55.js",
+    "static/js/787.c19a2e2a.chunk.js": "/movie-rating-react-project/static/js/787.c19a2e2a.chunk.js",
+    "index.html": "/movie-rating-react-project/index.html",
+    "main.ab4ca018.css.map": "/movie-rating-react-project/static/css/main.ab4ca018.css.map",
+    "main.c4c7ba55.js.map": "/movie-rating-react-project/static/js/main.c4c7ba55.js.map",
+    "787.c19a2e2a.chunk.js.map": "/movie-rating-react-project/static/js/787.c19a2e2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab4ca018.css",
+    "static/js/main.c4c7ba55.js"
+  ]
+}
