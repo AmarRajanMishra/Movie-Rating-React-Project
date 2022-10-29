@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab4ca018.css",
-    "main.js": "/static/js/main.cc552322.js",
-    "static/js/787.c19a2e2a.chunk.js": "/static/js/787.c19a2e2a.chunk.js",
-    "index.html": "/index.html",
-    "main.ab4ca018.css.map": "/static/css/main.ab4ca018.css.map",
-    "main.cc552322.js.map": "/static/js/main.cc552322.js.map",
-    "787.c19a2e2a.chunk.js.map": "/static/js/787.c19a2e2a.chunk.js.map"
+    "main.css": "/movie-rating-react-project/static/css/main.ab4ca018.css",
+    "main.js": "/movie-rating-react-project/static/js/main.e68ca97a.js",
+    "static/js/787.c19a2e2a.chunk.js": "/movie-rating-react-project/static/js/787.c19a2e2a.chunk.js",
+    "index.html": "/movie-rating-react-project/index.html",
+    "main.ab4ca018.css.map": "/movie-rating-react-project/static/css/main.ab4ca018.css.map",
+    "main.e68ca97a.js.map": "/movie-rating-react-project/static/js/main.e68ca97a.js.map",
+    "787.c19a2e2a.chunk.js.map": "/movie-rating-react-project/static/js/787.c19a2e2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab4ca018.css",
-    "static/js/main.cc552322.js"
+    "static/js/main.e68ca97a.js"
   ]
 }
